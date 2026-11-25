@@ -1,10 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One glyph that stands for this agent: eight arms working at once.
-// An agent is not one hand doing one thing; it reaches into many
-// tools, tabs and tasks in parallel, holds them all, and brings
-// the result back. The octopus reads at a glance, needs no caption,
-// and is not the obvious robot or smiley.
+// An agent does not do one thing with one hand. It holds several
+// tasks, reaches into several tools, and brings each result back
+// without being led step by step. The octopus is that worker in
+// one familiar shape: it reads instantly at small size, it is
+// specific about parallel tool use, and it is not the obvious
+// robot or smiley half the field would send.
 const ENTRY = "🐙";
 
 mkdirSync("/output", { recursive: true });

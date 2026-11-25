@@ -26,6 +26,23 @@ rather than to a generic machine.
   reaching, or using tools.
 - 🧰 toolbox: specific to tool use, but an object, not a character;
   it has no agency of its own in the glyph.
+- 🪃 boomerang: a neat loop-and-return image, but at a glance it
+  says "returns", not "agent"; the loop idea needs the explanation
+  the entry is not allowed to carry.
+- 🧭 compass: navigation and planning, but a lone instrument again;
+  it portraits a tool, not a working character.
+
+## Polish 2
+
+Reworded the program comment to name the behaviour precisely:
+holding several tasks, reaching into several tools, returning
+without being led step by step. Output unchanged.
+
+## Polish 3
+
+Tightened the README portrait to the same wording. Re-ran the
+program after every polish: output byte-identical every time —
+one emoji, 4 bytes, no trailing newline.
 
 ## Run
 

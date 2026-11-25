@@ -10,9 +10,10 @@ One emoji that stands for an AI agent: the glyph alone, nothing else.
 
 > 🐙
 
-An octopus: eight arms working at once, reaching into many tools
-and tasks in parallel and bringing the result back — how an agent
-works, in one familiar glyph that reads instantly at small size.
+An octopus: eight arms working at once, holding several tasks,
+reaching into several tools, and bringing each result back without
+being led step by step — how an agent works, in one familiar glyph
+that reads instantly at small size and is not the obvious robot.
 
 ## Run
 
